@@ -1,0 +1,4 @@
+E01;Nurul;Female;01 January 1999;Jalan Mangga;089812345678;Admin
+E02;Mindy;Female;2 January 1999;Jalan Manggis;098765459;CashierE03;tes;tes;tes;tes;09871234;admin
+E13;NURUL;FEMALE;13 2 2000;JALA CEMPAKA;0857156789;cASHIER
+Ee;1;6;r;e;0987654321;q
